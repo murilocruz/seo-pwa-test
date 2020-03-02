@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/murilocruz/seo-pwa-test/static/css/main.d1b05096.chunk.css",
-    "main.js": "/murilocruz/seo-pwa-test/static/js/main.9b98685a.chunk.js",
-    "main.js.map": "/murilocruz/seo-pwa-test/static/js/main.9b98685a.chunk.js.map",
-    "runtime-main.js": "/murilocruz/seo-pwa-test/static/js/runtime-main.a6e9953c.js",
-    "runtime-main.js.map": "/murilocruz/seo-pwa-test/static/js/runtime-main.a6e9953c.js.map",
-    "static/js/2.baea63d9.chunk.js": "/murilocruz/seo-pwa-test/static/js/2.baea63d9.chunk.js",
-    "static/js/2.baea63d9.chunk.js.map": "/murilocruz/seo-pwa-test/static/js/2.baea63d9.chunk.js.map",
-    "index.html": "/murilocruz/seo-pwa-test/index.html",
-    "precache-manifest.c3828c3b5274620c924ff743b9eb4527.js": "/murilocruz/seo-pwa-test/precache-manifest.c3828c3b5274620c924ff743b9eb4527.js",
-    "service-worker.js": "/murilocruz/seo-pwa-test/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/murilocruz/seo-pwa-test/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.baea63d9.chunk.js.LICENSE.txt": "/murilocruz/seo-pwa-test/static/js/2.baea63d9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/murilocruz/seo-pwa-test/static/media/logo.5d5d9eef.svg"
+    "main.css": "/seo-pwa-test/static/css/main.d1b05096.chunk.css",
+    "main.js": "/seo-pwa-test/static/js/main.3eabea01.chunk.js",
+    "main.js.map": "/seo-pwa-test/static/js/main.3eabea01.chunk.js.map",
+    "runtime-main.js": "/seo-pwa-test/static/js/runtime-main.b0d0c1e0.js",
+    "runtime-main.js.map": "/seo-pwa-test/static/js/runtime-main.b0d0c1e0.js.map",
+    "static/js/2.baea63d9.chunk.js": "/seo-pwa-test/static/js/2.baea63d9.chunk.js",
+    "static/js/2.baea63d9.chunk.js.map": "/seo-pwa-test/static/js/2.baea63d9.chunk.js.map",
+    "index.html": "/seo-pwa-test/index.html",
+    "precache-manifest.37af57886a5a91f8bc47553ef6586945.js": "/seo-pwa-test/precache-manifest.37af57886a5a91f8bc47553ef6586945.js",
+    "service-worker.js": "/seo-pwa-test/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/seo-pwa-test/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.baea63d9.chunk.js.LICENSE.txt": "/seo-pwa-test/static/js/2.baea63d9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/seo-pwa-test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6e9953c.js",
+    "static/js/runtime-main.b0d0c1e0.js",
     "static/js/2.baea63d9.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9b98685a.chunk.js"
+    "static/js/main.3eabea01.chunk.js"
   ]
 }
